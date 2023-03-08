@@ -1,0 +1,88 @@
+.{
+    background-color: rgb(242, 233, 233);
+    width: 90%;
+    border: none;
+    box-shadow: -10px 10px 10px -5px;
+    border-radius: 2%;
+     
+}
+   input{
+          display: block;
+          width: 70%;
+          padding: 10px;
+     background-color: rgb(184, 181, 181);
+     border: none;
+     margin-left: 30px;
+   }
+    a{  text-decoration: none;
+        color: black;
+        margin-left: 90px;
+        font-size: 17px;
+    }
+    .sub1{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+          width: 50%;
+          background-color: white;
+          padding: 20px;
+    }
+    h2{
+        font-size: 30px;
+        text-align: center;
+    }
+     button{
+         border: none;
+         background-color: rgb(227, 45, 45);
+         color: aliceblue;
+         border-radius: 20px;
+         padding: 10px;
+         width: 30%;
+         margin-left: 120px;
+     }
+       .sub2{ 
+              width: 50%;
+              background-color: rgb(227, 45, 45);
+              font-family: Verdana, Geneva, Tahoma, sans-serif;
+       }
+       .bt1{
+              display: inline-block;
+              text-decoration: none;
+              padding:12px;
+              opacity: 1;
+              border: 1px solid;
+              cursor:pointer;
+              width: 140px; 
+               
+       }
+       .pot3{ width: 190px;
+              border-radius: 10%;
+              padding: 20px;
+              display: flex;
+              margin-left: 40px;
+              
+        
+              
+       }      
+        .btn2{ padding: 17px;
+               margin-left: 40px;
+                background-color: white;
+                flex-direction: column;
+                border: 0.1px solid black;
+
+        }
+        .wordpot{ box-shadow: 10px 25px 25px -10px;
+                   width: 100%;
+                   display: flex;
+
+        }
+        p{ text-decoration: solid;
+            font-size: 18.7px;
+            padding: 60px;
+        }
+  .ss1{
+       
+    
+       color: aliceblue;
+  }
+  p{
+    color: aliceblue;
+    text-decoration: none;
+  }
